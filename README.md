@@ -35,8 +35,9 @@ You can also modify the server.js file to add additional routes or functionality
 
 This project uses the following dependencies:
 
-- Express - A minimalist web framework for Node.js
-- EJS - Embedded JavaScript templating
+- Express server with basic routing
+- EJS templating engine for dynamic views
+- Bootstrap 5 for responsive design and styling
 
 ### Author
 
