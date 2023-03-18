@@ -1,0 +1,8 @@
+// custom variables
+// Variable overrides first
+$primary: rgb(24, 104, 165);
+$enable-shadows: true;
+$prefix: 'mo-';
+
+//import boootstrap
+@import '../../node_modules/bootstrap/scss/bootstrap.scss';
